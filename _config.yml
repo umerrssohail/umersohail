@@ -20,7 +20,7 @@ repository               : "umerrssohail/umerssohail.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "umerprofile.png"
   name             : "Umer Sohail"
   pronouns         : # example: "she/her"  
   bio              : "PhD Economics Student, University of Delaware"
