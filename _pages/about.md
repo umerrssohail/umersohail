@@ -13,6 +13,6 @@ My current work investigates the effects of trade liberalization on manufacturin
 
 My research agenda is driven by the broader question of how globalization interacts with institutional quality and state capacity in shaping economic development. I use microdata and causal inference techniques to understand how policy frameworks—particularly trade policy and judicial institutions—affect firm decisions, market allocation, and ultimately, growth and inequality.
 
-You can reach me at umersoha@udel.edu, and view my CV [here](/files/umer_resume).
+You can reach me at umersoha@udel.edu, and view my CV [here](/files/umer_resume.pdf).
 
 
