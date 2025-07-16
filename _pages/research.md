@@ -16,12 +16,12 @@ We study how manufacturing firms in a developing economy adjust to trade liberal
 
 ---
 
-### 2. [Contracts, Dispute Resolution, and Firm Productivity: Evidence from Commercial Courts in India]()  
+### 2. [Towards win-win: Evidence from commercial dispute resolution in India]()  
 **With:** [Manaswini Rao](#) (University of Delaware), [Sandhya Seetharaman](#) (J-PAL), [Khushbu Shah](#) (J-PAL)  
 **Status:** Draft, *October 2024*
 
 **Abstract:**  
-Contract enforcement is central to capital access and firm-led structural transformation. Courts play a vital role by enabling contracts through timely resolution of debt recovery disputes, facilitating credit circulation and access to cheaper capital. We leverage the random assignment of commercial cases to judges in newly established commercial courts in India to estimate the impact of timely resolution on firm outcomes. We find that court-mediated settlements improve firm capital accumulation and profitability, and also influence repayment behavior and subsequent bank lending decisions.
+Courts are central in contract enforcement, and yet we know very little about how they function and their impact in the context of low state capacity. We leverage random assignment of commercial and contractual cases to judges in newly created commercial courts in India to examine the impact of judge-mediated settlement on litigating firms' profits. The resolution of a case through mutual reconciliation (``settlement'') rather than a full-length trial is negatively correlated with its duration and its pending status. We estimate a large, positive effect on the profitability of plaintiff, mainly financial sector firms, and negative effects among defendant firms. However, the negative effects among defendants are driven by the timing of suing rather than from settlement. We find suggestive evidence that settlement, in fact, stems the loss, suggesting a Pareto improvement.
 
 ---
 
