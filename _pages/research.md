@@ -12,7 +12,7 @@ author_profile: true
 **Status:** Draft, *May 2025*
 
 **Abstract:**  
-We study how manufacturing firms in a developing economy adjust to trade liberalization using administrative tax records linked to firm-level tariff exposure. Exploiting variation in pre-reform protection and an event-study design, we document increases in export values, particularly among more productive firms. While less productive firms reduce wage expenditures following liberalization, more productive firms increase capital investment. Exit rates rise overall but are not disproportionately concentrated among low-productivity firms. These results highlight how liberalization triggers reallocation through exports, input adjustment, and firm dynamics, with heterogeneous effects shaped by productivity.
+We examine how manufacturing firms in a developing economy adjust to trade liberalization using administrative tax records linked to firm-level tariff exposure. Exploiting variation in pre-reform protection and an event-study framework, we find that export activity increases following liberalization, particularly among more productive firms. High-productivity firms expand their capital stock, while less productive firms reduce wage expenditures and show no evidence of investment-led adjustment. Although firm exit rates increase post-liberalization, the attrition is not disproportionately concentrated among low-productivity firms. These results highlight how liberalization induces resource reallocation through changes in exports, factor inputs, and firm dynamics, with adjustment patterns shaped by initial productivity.
 
 ---
 
